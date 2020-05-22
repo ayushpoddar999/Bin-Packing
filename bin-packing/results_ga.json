@@ -1,0 +1,249 @@
+[
+  {
+    "name": "N1C1W1_A.BPP",
+    "results": {
+      "GA": [
+        {
+          "execution_time": "0:00:09.616293",
+          "num_bins": 26,
+          "fitness": 0.8821538461538462,
+          "iterations": 128,
+          "stagnation": 50,
+          "combination": "nbfnbbnwbw"
+        },
+        {
+          "execution_time": "0:00:17.587973",
+          "num_bins": 26,
+          "fitness": 0.8853923076923077,
+          "iterations": 214,
+          "stagnation": 50,
+          "combination": "bbfffbnwbfnfbfbbbbnb"
+        },
+        {
+          "execution_time": "0:00:05.009619",
+          "num_bins": 26,
+          "fitness": 0.8847307692307691,
+          "iterations": 57,
+          "stagnation": 50,
+          "combination": "ffwbbbbwn"
+        },
+        {
+          "execution_time": "0:00:03.585416",
+          "num_bins": 26,
+          "fitness": 0.884230769230769,
+          "iterations": 57,
+          "stagnation": 50,
+          "combination": "nfbnbnb"
+        },
+        {
+          "execution_time": "0:00:12.138576",
+          "num_bins": 26,
+          "fitness": 0.8905000000000001,
+          "iterations": 140,
+          "stagnation": 50,
+          "combination": "wbbbwbbbwbfbwbnwbfbfnbnbbbwbbbwbfbfbwbfwbfbfnbnb"
+        },
+        {
+          "execution_time": "0:00:06.392910",
+          "num_bins": 26,
+          "fitness": 0.8920615384615384,
+          "iterations": 67,
+          "stagnation": 50,
+          "combination": "fnwbbnwbbwbfbb"
+        },
+        {
+          "execution_time": "0:00:05.486307",
+          "num_bins": 26,
+          "fitness": 0.8897769230769229,
+          "iterations": 50,
+          "stagnation": 50,
+          "combination": "b"
+        },
+        {
+          "execution_time": "0:00:06.873625",
+          "num_bins": 26,
+          "fitness": 0.8889384615384617,
+          "iterations": 70,
+          "stagnation": 50,
+          "combination": "bbwfbbwfnffb"
+        },
+        {
+          "execution_time": "0:00:05.053492",
+          "num_bins": 26,
+          "fitness": 0.8854538461538461,
+          "iterations": 62,
+          "stagnation": 50,
+          "combination": "bbbnnfbf"
+        },
+        {
+          "execution_time": "0:00:07.575748",
+          "num_bins": 26,
+          "fitness": 0.8834999999999998,
+          "iterations": 85,
+          "stagnation": 50,
+          "combination": "fbbnffwb"
+        },
+        {
+          "execution_time": "0:00:08.599983",
+          "num_bins": 26,
+          "fitness": 0.8928076923076922,
+          "iterations": 99,
+          "stagnation": 50,
+          "combination": "bbnnb"
+        },
+        {
+          "execution_time": "0:00:05.303799",
+          "num_bins": 26,
+          "fitness": 0.8872230769230769,
+          "iterations": 57,
+          "stagnation": 50,
+          "combination": "bwfbfbbnnbwbbb"
+        },
+        {
+          "execution_time": "0:00:05.800470",
+          "num_bins": 26,
+          "fitness": 0.8904769230769228,
+          "iterations": 70,
+          "stagnation": 50,
+          "combination": "bbbbfnnnbwb"
+        },
+        {
+          "execution_time": "0:00:03.883631",
+          "num_bins": 26,
+          "fitness": 0.8865153846153848,
+          "iterations": 53,
+          "stagnation": 50,
+          "combination": "fbbn"
+        },
+        {
+          "execution_time": "0:00:06.771861",
+          "num_bins": 26,
+          "fitness": 0.8958000000000002,
+          "iterations": 81,
+          "stagnation": 50,
+          "combination": "fnbbfbnfbbb"
+        },
+        {
+          "execution_time": "0:00:09.003957",
+          "num_bins": 26,
+          "fitness": 0.8906,
+          "iterations": 108,
+          "stagnation": 50,
+          "combination": "nwbbfnbfbnwbbnbfbbbfbbfbfbbbfbbfbwbbfnbfbfbfnbfbnwbbnbfbbbfbbfbfbbbfbbfbwbbfnbfbfwwnfnnbfbbbfbbfbbwbbfnbfbfnbfbbbfbbbfbfnbfbbbfbbfbfbbbfbbfbwbbfnbfbfnbfbbbfbbfbfbbbfbbfbbwbbwwfwwwf"
+        },
+        {
+          "execution_time": "0:00:12.986286",
+          "num_bins": 26,
+          "fitness": 0.893023076923077,
+          "iterations": 139,
+          "stagnation": 50,
+          "combination": "bbnbbbwbwbnw"
+        },
+        {
+          "execution_time": "0:00:04.503985",
+          "num_bins": 26,
+          "fitness": 0.8849,
+          "iterations": 63,
+          "stagnation": 50,
+          "combination": "nnbbnnnwfnffwbbnwwbnfb"
+        },
+        {
+          "execution_time": "0:00:12.462686",
+          "num_bins": 27,
+          "fitness": 0.8337925925925925,
+          "iterations": 169,
+          "stagnation": 50,
+          "combination": "nbfnbbnwfbwbfffnwbbnf"
+        },
+        {
+          "execution_time": "0:00:05.374633",
+          "num_bins": 26,
+          "fitness": 0.888,
+          "iterations": 65,
+          "stagnation": 50,
+          "combination": "bwffwbffwbfwbbwnwwffnfffwbfwbbbw"
+        },
+        {
+          "execution_time": "0:00:13.575735",
+          "num_bins": 27,
+          "fitness": 0.8337555555555556,
+          "iterations": 182,
+          "stagnation": 50,
+          "combination": "fbfbwbbnnbbwffnnnwbnbbnnbbwwfnnnwbnbbnnwffnwbbnnbbwffnnnwbnbbnnbbwwfnnnwbwbnbbnnbbwwfnnnwbnbbnnwbfnnnwbnbbnnbbwwfnnnwbnbbnnwbnbbnb"
+        },
+        {
+          "execution_time": "0:00:03.808817",
+          "num_bins": 26,
+          "fitness": 0.8849076923076922,
+          "iterations": 58,
+          "stagnation": 50,
+          "combination": "nbnfbnb"
+        },
+        {
+          "execution_time": "0:00:05.522237",
+          "num_bins": 27,
+          "fitness": 0.8313555555555557,
+          "iterations": 50,
+          "stagnation": 50,
+          "combination": "b"
+        },
+        {
+          "execution_time": "0:00:08.318738",
+          "num_bins": 26,
+          "fitness": 0.8877846153846154,
+          "iterations": 91,
+          "stagnation": 50,
+          "combination": "bnbbbffnbbbbbnffbfffnbbnbbbffnbbbbbnffbfffnbbbbnffbfffnfwbfffnb"
+        },
+        {
+          "execution_time": "0:00:15.722009",
+          "num_bins": 26,
+          "fitness": 0.8858923076923079,
+          "iterations": 186,
+          "stagnation": 50,
+          "combination": "bbnwbbnfwfnfnnfbbfww"
+        },
+        {
+          "execution_time": "0:00:04.772243",
+          "num_bins": 26,
+          "fitness": 0.8834153846153845,
+          "iterations": 50,
+          "stagnation": 50,
+          "combination": "b"
+        },
+        {
+          "execution_time": "0:00:08.564132",
+          "num_bins": 26,
+          "fitness": 0.8839538461538463,
+          "iterations": 117,
+          "stagnation": 50,
+          "combination": "nffbfbfnnbbbb"
+        },
+        {
+          "execution_time": "0:00:04.588757",
+          "num_bins": 26,
+          "fitness": 0.8800384615384614,
+          "iterations": 53,
+          "stagnation": 50,
+          "combination": "wnbfbbbwbbb"
+        },
+        {
+          "execution_time": "0:00:05.221018",
+          "num_bins": 26,
+          "fitness": 0.8928769230769228,
+          "iterations": 63,
+          "stagnation": 50,
+          "combination": "bbnwbbbnbwbf"
+        },
+        {
+          "execution_time": "0:00:08.075413",
+          "num_bins": 26,
+          "fitness": 0.8921692307692306,
+          "iterations": 103,
+          "stagnation": 50,
+          "combination": "bfbbnbnnnbffbbbb"
+        }
+      ]
+    }
+  }
+]

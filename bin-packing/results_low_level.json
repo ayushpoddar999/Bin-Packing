@@ -1,0 +1,3067 @@
+[
+  {
+    "name": "N1C1W1_A.BPP",
+    "results": {
+      "FirstFit": [
+        {
+          "execution_time": "0:00:00.000996",
+          "num_bins": 27,
+          "fitness": 0.8285185185185185
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 26,
+          "fitness": 0.8807153846153846
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 27,
+          "fitness": 0.8278814814814816
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 26,
+          "fitness": 0.8789846153846154
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 26,
+          "fitness": 0.8797692307692307
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 27,
+          "fitness": 0.8221555555555555
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 27,
+          "fitness": 0.8312148148148147
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 27,
+          "fitness": 0.8251333333333334
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 26,
+          "fitness": 0.8790153846153846
+        },
+        {
+          "execution_time": "0:00:00.001996",
+          "num_bins": 26,
+          "fitness": 0.8811307692307692
+        },
+        {
+          "execution_time": "0:00:00.001996",
+          "num_bins": 26,
+          "fitness": 0.8796615384615384
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 27,
+          "fitness": 0.8277037037037035
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 27,
+          "fitness": 0.8275185185185187
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 26,
+          "fitness": 0.8795153846153846
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 26,
+          "fitness": 0.8808
+        },
+        {
+          "execution_time": "0:00:00.000993",
+          "num_bins": 26,
+          "fitness": 0.8843153846153845
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 27,
+          "fitness": 0.8306
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 26,
+          "fitness": 0.8837307692307692
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 26,
+          "fitness": 0.8802846153846152
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 27,
+          "fitness": 0.8279851851851854
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 27,
+          "fitness": 0.8290148148148149
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 26,
+          "fitness": 0.8863692307692308
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 26,
+          "fitness": 0.8860461538461538
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 27,
+          "fitness": 0.8256444444444443
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 27,
+          "fitness": 0.8256592592592591
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 26,
+          "fitness": 0.889976923076923
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 27,
+          "fitness": 0.8235185185185183
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 27,
+          "fitness": 0.8284962962962963
+        },
+        {
+          "execution_time": "0:00:00.004987",
+          "num_bins": 26,
+          "fitness": 0.8799615384615385
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 26,
+          "fitness": 0.879746153846154
+        }
+      ],
+      "NextFit": [
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 32,
+          "fitness": 0.6149374999999999
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 31,
+          "fitness": 0.6503935483870967
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 30,
+          "fitness": 0.6784466666666666
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 33,
+          "fitness": 0.6022363636363637
+        },
+        {
+          "execution_time": "0:00:00.000996",
+          "num_bins": 32,
+          "fitness": 0.618425
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 33,
+          "fitness": 0.5992727272727273
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 31,
+          "fitness": 0.6480451612903226
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 34,
+          "fitness": 0.5663117647058824
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 34,
+          "fitness": 0.5696
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 33,
+          "fitness": 0.5982363636363633
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 31,
+          "fitness": 0.6579999999999999
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 34,
+          "fitness": 0.5680529411764706
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 29,
+          "fitness": 0.7297793103448277
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 33,
+          "fitness": 0.6000727272727272
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 33,
+          "fitness": 0.5965575757575756
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 30,
+          "fitness": 0.68328
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 33,
+          "fitness": 0.5940424242424243
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 32,
+          "fitness": 0.62659375
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 32,
+          "fitness": 0.6274437499999999
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 30,
+          "fitness": 0.7076399999999999
+        },
+        {
+          "execution_time": "0:00:00.002992",
+          "num_bins": 31,
+          "fitness": 0.6452645161290322
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 31,
+          "fitness": 0.658225806451613
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 32,
+          "fitness": 0.61765
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 33,
+          "fitness": 0.5931454545454544
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 34,
+          "fitness": 0.5725176470588235
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 31,
+          "fitness": 0.6517741935483871
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 33,
+          "fitness": 0.6053757575757575
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 31,
+          "fitness": 0.6624580645161292
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 28,
+          "fitness": 0.7753428571428571
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 30,
+          "fitness": 0.7002933333333333
+        }
+      ],
+      "WorstFit": [
+        {
+          "execution_time": "0:00:00.001996",
+          "num_bins": 28,
+          "fitness": 0.7668857142857143
+        },
+        {
+          "execution_time": "0:00:00.004987",
+          "num_bins": 28,
+          "fitness": 0.7687214285714286
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 28,
+          "fitness": 0.7621285714285715
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 28,
+          "fitness": 0.7626857142857144
+        },
+        {
+          "execution_time": "0:00:00.002993",
+          "num_bins": 29,
+          "fitness": 0.7150758620689656
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 28,
+          "fitness": 0.7700071428571427
+        },
+        {
+          "execution_time": "0:00:00.001992",
+          "num_bins": 28,
+          "fitness": 0.7644714285714286
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 28,
+          "fitness": 0.7618642857142855
+        },
+        {
+          "execution_time": "0:00:00.001996",
+          "num_bins": 28,
+          "fitness": 0.7623785714285715
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 27,
+          "fitness": 0.8166296296296296
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 27,
+          "fitness": 0.8174814814814815
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 27,
+          "fitness": 0.8175925925925924
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 28,
+          "fitness": 0.7655714285714287
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 28,
+          "fitness": 0.7616428571428572
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 28,
+          "fitness": 0.7617642857142856
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 28,
+          "fitness": 0.763142857142857
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 27,
+          "fitness": 0.8179333333333333
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 28,
+          "fitness": 0.7638499999999999
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 28,
+          "fitness": 0.7721
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 28,
+          "fitness": 0.7659499999999999
+        },
+        {
+          "execution_time": "0:00:00.002991",
+          "num_bins": 27,
+          "fitness": 0.8187185185185184
+        },
+        {
+          "execution_time": "0:00:00.003990",
+          "num_bins": 28,
+          "fitness": 0.7669857142857143
+        },
+        {
+          "execution_time": "0:00:00.002993",
+          "num_bins": 28,
+          "fitness": 0.7624071428571428
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 29,
+          "fitness": 0.7183310344827586
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 28,
+          "fitness": 0.7616428571428571
+        },
+        {
+          "execution_time": "0:00:00.002991",
+          "num_bins": 28,
+          "fitness": 0.7729285714285714
+        },
+        {
+          "execution_time": "0:00:00.001993",
+          "num_bins": 28,
+          "fitness": 0.7686714285714285
+        },
+        {
+          "execution_time": "0:00:00.001993",
+          "num_bins": 28,
+          "fitness": 0.7684857142857143
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 27,
+          "fitness": 0.8167925925925926
+        },
+        {
+          "execution_time": "0:00:00.002992",
+          "num_bins": 27,
+          "fitness": 0.8185259259259259
+        }
+      ],
+      "BestFit": [
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 27,
+          "fitness": 0.8285555555555556
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 26,
+          "fitness": 0.8824615384615383
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 27,
+          "fitness": 0.8322370370370371
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 27,
+          "fitness": 0.8320074074074076
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 26,
+          "fitness": 0.8800923076923076
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 27,
+          "fitness": 0.8226074074074072
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 26,
+          "fitness": 0.8804692307692308
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 27,
+          "fitness": 0.825348148148148
+        },
+        {
+          "execution_time": "0:00:00.001993",
+          "num_bins": 26,
+          "fitness": 0.8812153846153847
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 26,
+          "fitness": 0.8812846153846153
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 26,
+          "fitness": 0.885523076923077
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 26,
+          "fitness": 0.8810076923076923
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 26,
+          "fitness": 0.8871307692307694
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 26,
+          "fitness": 0.8836153846153848
+        },
+        {
+          "execution_time": "0:00:00.001002",
+          "num_bins": 26,
+          "fitness": 0.8857384615384617
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 26,
+          "fitness": 0.8872076923076923
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 26,
+          "fitness": 0.8820538461538461
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 26,
+          "fitness": 0.8838923076923078
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 26,
+          "fitness": 0.8822923076923076
+        },
+        {
+          "execution_time": "0:00:00.002993",
+          "num_bins": 26,
+          "fitness": 0.8879153846153847
+        },
+        {
+          "execution_time": "0:00:00.003990",
+          "num_bins": 27,
+          "fitness": 0.8251407407407407
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 26,
+          "fitness": 0.8863307692307694
+        },
+        {
+          "execution_time": "0:00:00.004987",
+          "num_bins": 26,
+          "fitness": 0.8861307692307693
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 27,
+          "fitness": 0.8269111111111109
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 27,
+          "fitness": 0.8279555555555556
+        },
+        {
+          "execution_time": "0:00:00.002993",
+          "num_bins": 26,
+          "fitness": 0.8870076923076922
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 27,
+          "fitness": 0.8235185185185185
+        },
+        {
+          "execution_time": "0:00:00.002994",
+          "num_bins": 26,
+          "fitness": 0.8834538461538463
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 26,
+          "fitness": 0.8849846153846155
+        },
+        {
+          "execution_time": "0:00:00.002001",
+          "num_bins": 26,
+          "fitness": 0.880753846153846
+        }
+      ]
+    }
+  },
+  {
+    "name": "N2C2W1_B.BPP",
+    "results": {
+      "FirstFit": [
+        {
+          "execution_time": "0:00:00.003988",
+          "num_bins": 52,
+          "fitness": 0.7961071047008547
+        },
+        {
+          "execution_time": "0:00:00.005983",
+          "num_bins": 54,
+          "fitness": 0.7462229938271603
+        },
+        {
+          "execution_time": "0:00:00.003987",
+          "num_bins": 52,
+          "fitness": 0.7960723824786322
+        },
+        {
+          "execution_time": "0:00:00.004987",
+          "num_bins": 53,
+          "fitness": 0.7716417714884696
+        },
+        {
+          "execution_time": "0:00:00.005985",
+          "num_bins": 52,
+          "fitness": 0.7983052884615385
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 55,
+          "fitness": 0.7224330808080806
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 54,
+          "fitness": 0.7412409979423867
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 51,
+          "fitness": 0.8260334967320262
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 52,
+          "fitness": 0.7974318910256409
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 54,
+          "fitness": 0.7461869855967075
+        },
+        {
+          "execution_time": "0:00:00.002991",
+          "num_bins": 53,
+          "fitness": 0.7733005765199161
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 52,
+          "fitness": 0.8015024038461538
+        },
+        {
+          "execution_time": "0:00:00.006978",
+          "num_bins": 53,
+          "fitness": 0.7658162997903563
+        },
+        {
+          "execution_time": "0:00:00.002991",
+          "num_bins": 54,
+          "fitness": 0.750258487654321
+        },
+        {
+          "execution_time": "0:00:00.003989",
+          "num_bins": 52,
+          "fitness": 0.7990718482905984
+        },
+        {
+          "execution_time": "0:00:00.002993",
+          "num_bins": 53,
+          "fitness": 0.7694981656184485
+        },
+        {
+          "execution_time": "0:00:00.003989",
+          "num_bins": 52,
+          "fitness": 0.7985884081196581
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 53,
+          "fitness": 0.7719378930817609
+        },
+        {
+          "execution_time": "0:00:00.002993",
+          "num_bins": 53,
+          "fitness": 0.7725956498951779
+        },
+        {
+          "execution_time": "0:00:00.003990",
+          "num_bins": 53,
+          "fitness": 0.771115041928721
+        },
+        {
+          "execution_time": "0:00:00.003989",
+          "num_bins": 53,
+          "fitness": 0.7730830712788261
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 52,
+          "fitness": 0.7973784722222221
+        },
+        {
+          "execution_time": "0:00:00.002991",
+          "num_bins": 52,
+          "fitness": 0.7968763354700853
+        },
+        {
+          "execution_time": "0:00:00.003988",
+          "num_bins": 53,
+          "fitness": 0.7704730083857442
+        },
+        {
+          "execution_time": "0:00:00.005984",
+          "num_bins": 53,
+          "fitness": 0.7693042452830188
+        },
+        {
+          "execution_time": "0:00:00.004986",
+          "num_bins": 53,
+          "fitness": 0.7695689203354299
+        },
+        {
+          "execution_time": "0:00:00.002990",
+          "num_bins": 52,
+          "fitness": 0.798989049145299
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 53,
+          "fitness": 0.7709813941299789
+        },
+        {
+          "execution_time": "0:00:00.003991",
+          "num_bins": 52,
+          "fitness": 0.7987807158119659
+        },
+        {
+          "execution_time": "0:00:00.003990",
+          "num_bins": 52,
+          "fitness": 0.7989062499999999
+        }
+      ],
+      "NextFit": [
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 63,
+          "fitness": 0.5661055996472661
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 63,
+          "fitness": 0.5620690035273367
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 64,
+          "fitness": 0.5416829427083332
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 65,
+          "fitness": 0.5387382478632476
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 62,
+          "fitness": 0.5817641129032256
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 63,
+          "fitness": 0.559286816578483
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 61,
+          "fitness": 0.5903085154826957
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 61,
+          "fitness": 0.5953221766848813
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 62,
+          "fitness": 0.5767372311827955
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 61,
+          "fitness": 0.5978494990892529
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 65,
+          "fitness": 0.5299497863247864
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 62,
+          "fitness": 0.5747614247311826
+        },
+        {
+          "execution_time": "0:00:00.001000",
+          "num_bins": 65,
+          "fitness": 0.5278643162393161
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 64,
+          "fitness": 0.5399099392361109
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 64,
+          "fitness": 0.5505740017361109
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 64,
+          "fitness": 0.5451681857638887
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 64,
+          "fitness": 0.544814453125
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 62,
+          "fitness": 0.5769074820788528
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 62,
+          "fitness": 0.5732269265232973
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 64,
+          "fitness": 0.5406673177083333
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 62,
+          "fitness": 0.5796830197132615
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 66,
+          "fitness": 0.5090772306397304
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 64,
+          "fitness": 0.541982421875
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 64,
+          "fitness": 0.5443674045138888
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 64,
+          "fitness": 0.5437424045138887
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 61,
+          "fitness": 0.5973417577413478
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 63,
+          "fitness": 0.563067680776014
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 62,
+          "fitness": 0.5754715501792115
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 62,
+          "fitness": 0.5725638440860215
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 62,
+          "fitness": 0.5742170698924731
+        }
+      ],
+      "WorstFit": [
+        {
+          "execution_time": "0:00:00.010971",
+          "num_bins": 58,
+          "fitness": 0.6384039750957854
+        },
+        {
+          "execution_time": "0:00:00.007980",
+          "num_bins": 57,
+          "fitness": 0.6570236354775827
+        },
+        {
+          "execution_time": "0:00:00.004986",
+          "num_bins": 57,
+          "fitness": 0.6573964424951264
+        },
+        {
+          "execution_time": "0:00:00.008982",
+          "num_bins": 59,
+          "fitness": 0.6163382768361583
+        },
+        {
+          "execution_time": "0:00:00.003988",
+          "num_bins": 59,
+          "fitness": 0.6182427024482108
+        },
+        {
+          "execution_time": "0:00:00.002992",
+          "num_bins": 57,
+          "fitness": 0.6612780214424949
+        },
+        {
+          "execution_time": "0:00:00.004987",
+          "num_bins": 56,
+          "fitness": 0.682786458333333
+        },
+        {
+          "execution_time": "0:00:00.003989",
+          "num_bins": 57,
+          "fitness": 0.6592970272904483
+        },
+        {
+          "execution_time": "0:00:00.004987",
+          "num_bins": 57,
+          "fitness": 0.6615996588693955
+        },
+        {
+          "execution_time": "0:00:00.003991",
+          "num_bins": 58,
+          "fitness": 0.639740181992337
+        },
+        {
+          "execution_time": "0:00:00.009975",
+          "num_bins": 59,
+          "fitness": 0.6162629472693031
+        },
+        {
+          "execution_time": "0:00:00.003989",
+          "num_bins": 56,
+          "fitness": 0.6818340773809524
+        },
+        {
+          "execution_time": "0:00:00.007976",
+          "num_bins": 58,
+          "fitness": 0.63884219348659
+        },
+        {
+          "execution_time": "0:00:00.005986",
+          "num_bins": 57,
+          "fitness": 0.6620480019493176
+        },
+        {
+          "execution_time": "0:00:00.005983",
+          "num_bins": 55,
+          "fitness": 0.7070416666666665
+        },
+        {
+          "execution_time": "0:00:00.006981",
+          "num_bins": 57,
+          "fitness": 0.6607614522417152
+        },
+        {
+          "execution_time": "0:00:00.004986",
+          "num_bins": 59,
+          "fitness": 0.6156344161958567
+        },
+        {
+          "execution_time": "0:00:00.002991",
+          "num_bins": 56,
+          "fitness": 0.6810305059523808
+        },
+        {
+          "execution_time": "0:00:00.007977",
+          "num_bins": 56,
+          "fitness": 0.6846019345238092
+        },
+        {
+          "execution_time": "0:00:00.006982",
+          "num_bins": 58,
+          "fitness": 0.6355375957854406
+        },
+        {
+          "execution_time": "0:00:00.006989",
+          "num_bins": 56,
+          "fitness": 0.6845994543650793
+        },
+        {
+          "execution_time": "0:00:00.007979",
+          "num_bins": 58,
+          "fitness": 0.639366618773946
+        },
+        {
+          "execution_time": "0:00:00.003990",
+          "num_bins": 56,
+          "fitness": 0.6804650297619047
+        },
+        {
+          "execution_time": "0:00:00.006980",
+          "num_bins": 57,
+          "fitness": 0.6599208089668614
+        },
+        {
+          "execution_time": "0:00:00.006982",
+          "num_bins": 57,
+          "fitness": 0.6578399122807017
+        },
+        {
+          "execution_time": "0:00:00.004987",
+          "num_bins": 58,
+          "fitness": 0.6363302203065132
+        },
+        {
+          "execution_time": "0:00:00.004987",
+          "num_bins": 56,
+          "fitness": 0.6815463789682539
+        },
+        {
+          "execution_time": "0:00:00.005983",
+          "num_bins": 57,
+          "fitness": 0.6574549220272904
+        },
+        {
+          "execution_time": "0:00:00.003989",
+          "num_bins": 57,
+          "fitness": 0.6634758771929824
+        },
+        {
+          "execution_time": "0:00:00.003988",
+          "num_bins": 57,
+          "fitness": 0.6582858187134503
+        }
+      ],
+      "BestFit": [
+        {
+          "execution_time": "0:00:00.006982",
+          "num_bins": 52,
+          "fitness": 0.8033774038461536
+        },
+        {
+          "execution_time": "0:00:00.005986",
+          "num_bins": 53,
+          "fitness": 0.7800301362683436
+        },
+        {
+          "execution_time": "0:00:00.004987",
+          "num_bins": 51,
+          "fitness": 0.8340127995642699
+        },
+        {
+          "execution_time": "0:00:00.007972",
+          "num_bins": 52,
+          "fitness": 0.8048490918803418
+        },
+        {
+          "execution_time": "0:00:00.002992",
+          "num_bins": 52,
+          "fitness": 0.8052256944444444
+        },
+        {
+          "execution_time": "0:00:00.002992",
+          "num_bins": 54,
+          "fitness": 0.7530902777777776
+        },
+        {
+          "execution_time": "0:00:00.002991",
+          "num_bins": 53,
+          "fitness": 0.7755254192872112
+        },
+        {
+          "execution_time": "0:00:00.002992",
+          "num_bins": 50,
+          "fitness": 0.8609319444444443
+        },
+        {
+          "execution_time": "0:00:00.002992",
+          "num_bins": 52,
+          "fitness": 0.8077737713675213
+        },
+        {
+          "execution_time": "0:00:00.003989",
+          "num_bins": 53,
+          "fitness": 0.7769090670859534
+        },
+        {
+          "execution_time": "0:00:00.007978",
+          "num_bins": 53,
+          "fitness": 0.7773414570230608
+        },
+        {
+          "execution_time": "0:00:00.006985",
+          "num_bins": 50,
+          "fitness": 0.8622624999999996
+        },
+        {
+          "execution_time": "0:00:00.003989",
+          "num_bins": 51,
+          "fitness": 0.8281876361655772
+        },
+        {
+          "execution_time": "0:00:00.006980",
+          "num_bins": 53,
+          "fitness": 0.7815500524109013
+        },
+        {
+          "execution_time": "0:00:00.005984",
+          "num_bins": 51,
+          "fitness": 0.8343314270152504
+        },
+        {
+          "execution_time": "0:00:00.005984",
+          "num_bins": 51,
+          "fitness": 0.8325503812636162
+        },
+        {
+          "execution_time": "0:00:00.005985",
+          "num_bins": 51,
+          "fitness": 0.832487745098039
+        },
+        {
+          "execution_time": "0:00:00.004987",
+          "num_bins": 52,
+          "fitness": 0.8027684294871792
+        },
+        {
+          "execution_time": "0:00:00.004988",
+          "num_bins": 52,
+          "fitness": 0.8054607371794867
+        },
+        {
+          "execution_time": "0:00:00.006982",
+          "num_bins": 51,
+          "fitness": 0.8370057189542481
+        },
+        {
+          "execution_time": "0:00:00.004977",
+          "num_bins": 53,
+          "fitness": 0.7785416666666664
+        },
+        {
+          "execution_time": "0:00:00.005984",
+          "num_bins": 51,
+          "fitness": 0.8339283769063177
+        },
+        {
+          "execution_time": "0:00:00.002993",
+          "num_bins": 52,
+          "fitness": 0.8017668269230767
+        },
+        {
+          "execution_time": "0:00:00.005985",
+          "num_bins": 53,
+          "fitness": 0.7766784591194966
+        },
+        {
+          "execution_time": "0:00:00.009972",
+          "num_bins": 53,
+          "fitness": 0.779697327044025
+        },
+        {
+          "execution_time": "0:00:00.003991",
+          "num_bins": 52,
+          "fitness": 0.8027817841880341
+        },
+        {
+          "execution_time": "0:00:00.004987",
+          "num_bins": 51,
+          "fitness": 0.8303281590413942
+        },
+        {
+          "execution_time": "0:00:00.005983",
+          "num_bins": 53,
+          "fitness": 0.7788404088050314
+        },
+        {
+          "execution_time": "0:00:00.002992",
+          "num_bins": 52,
+          "fitness": 0.8050787927350427
+        },
+        {
+          "execution_time": "0:00:00.006983",
+          "num_bins": 52,
+          "fitness": 0.8054366987179489
+        }
+      ]
+    }
+  },
+  {
+    "name": "N3C3W1_C.BPP",
+    "results": {
+      "FirstFit": [
+        {
+          "execution_time": "0:00:00.013963",
+          "num_bins": 73,
+          "fitness": 0.8931592085235923
+        },
+        {
+          "execution_time": "0:00:00.013963",
+          "num_bins": 73,
+          "fitness": 0.8950904109589043
+        },
+        {
+          "execution_time": "0:00:00.013964",
+          "num_bins": 71,
+          "fitness": 0.9369765258215966
+        },
+        {
+          "execution_time": "0:00:00.013963",
+          "num_bins": 71,
+          "fitness": 0.9388206572769953
+        },
+        {
+          "execution_time": "0:00:00.006981",
+          "num_bins": 74,
+          "fitness": 0.8752636636636639
+        },
+        {
+          "execution_time": "0:00:00.008976",
+          "num_bins": 73,
+          "fitness": 0.8940298325722985
+        },
+        {
+          "execution_time": "0:00:00.009972",
+          "num_bins": 71,
+          "fitness": 0.9368701095461656
+        },
+        {
+          "execution_time": "0:00:00.015933",
+          "num_bins": 71,
+          "fitness": 0.9337101721439751
+        },
+        {
+          "execution_time": "0:00:00.006981",
+          "num_bins": 72,
+          "fitness": 0.9124679012345681
+        },
+        {
+          "execution_time": "0:00:00.009970",
+          "num_bins": 71,
+          "fitness": 0.9334923317683882
+        },
+        {
+          "execution_time": "0:00:00.007979",
+          "num_bins": 72,
+          "fitness": 0.913079012345679
+        },
+        {
+          "execution_time": "0:00:00.009973",
+          "num_bins": 72,
+          "fitness": 0.9138617283950619
+        },
+        {
+          "execution_time": "0:00:00.006982",
+          "num_bins": 73,
+          "fitness": 0.893783866057839
+        },
+        {
+          "execution_time": "0:00:00.009973",
+          "num_bins": 72,
+          "fitness": 0.9146716049382716
+        },
+        {
+          "execution_time": "0:00:00.010973",
+          "num_bins": 71,
+          "fitness": 0.9330353677621286
+        },
+        {
+          "execution_time": "0:00:00.008975",
+          "num_bins": 71,
+          "fitness": 0.9360025039123633
+        },
+        {
+          "execution_time": "0:00:00.014960",
+          "num_bins": 71,
+          "fitness": 0.9331830985915497
+        },
+        {
+          "execution_time": "0:00:00.008976",
+          "num_bins": 73,
+          "fitness": 0.8930167427701674
+        },
+        {
+          "execution_time": "0:00:00.007979",
+          "num_bins": 71,
+          "fitness": 0.9370704225352114
+        },
+        {
+          "execution_time": "0:00:00.009974",
+          "num_bins": 72,
+          "fitness": 0.9159530864197534
+        },
+        {
+          "execution_time": "0:00:00.006980",
+          "num_bins": 73,
+          "fitness": 0.8949856925418572
+        },
+        {
+          "execution_time": "0:00:00.007988",
+          "num_bins": 71,
+          "fitness": 0.9343899843505479
+        },
+        {
+          "execution_time": "0:00:00.005984",
+          "num_bins": 71,
+          "fitness": 0.9355430359937406
+        },
+        {
+          "execution_time": "0:00:00.007979",
+          "num_bins": 71,
+          "fitness": 0.9347555555555557
+        },
+        {
+          "execution_time": "0:00:00.008976",
+          "num_bins": 72,
+          "fitness": 0.9118851851851854
+        },
+        {
+          "execution_time": "0:00:00.006982",
+          "num_bins": 72,
+          "fitness": 0.9164913580246914
+        },
+        {
+          "execution_time": "0:00:00.008974",
+          "num_bins": 72,
+          "fitness": 0.9144296296296299
+        },
+        {
+          "execution_time": "0:00:00.006981",
+          "num_bins": 72,
+          "fitness": 0.909856790123457
+        },
+        {
+          "execution_time": "0:00:00.009974",
+          "num_bins": 72,
+          "fitness": 0.916775308641975
+        },
+        {
+          "execution_time": "0:00:00.009989",
+          "num_bins": 73,
+          "fitness": 0.8900127853881282
+        }
+      ],
+      "NextFit": [
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 89,
+          "fitness": 0.6159340823970036
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 91,
+          "fitness": 0.5895462759462761
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 97,
+          "fitness": 0.5320146620847651
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 94,
+          "fitness": 0.5585900709219858
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 92,
+          "fitness": 0.580615458937198
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 92,
+          "fitness": 0.5795516908212562
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 92,
+          "fitness": 0.5790811594202898
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 91,
+          "fitness": 0.5991687423687425
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 92,
+          "fitness": 0.5839149758454107
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 90,
+          "fitness": 0.611828148148148
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 90,
+          "fitness": 0.604306172839506
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 91,
+          "fitness": 0.5946588522588524
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 89,
+          "fitness": 0.6230631710362049
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 91,
+          "fitness": 0.5980962148962151
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 91,
+          "fitness": 0.5928556776556778
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 93,
+          "fitness": 0.5740874551971329
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 88,
+          "fitness": 0.6308656565656569
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 91,
+          "fitness": 0.589076434676435
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 90,
+          "fitness": 0.6031792592592592
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 92,
+          "fitness": 0.5786676328502413
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 91,
+          "fitness": 0.5928126984126982
+        },
+        {
+          "execution_time": "0:00:00.000986",
+          "num_bins": 90,
+          "fitness": 0.6039565432098766
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 89,
+          "fitness": 0.621015730337079
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 89,
+          "fitness": 0.6171755305867667
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 88,
+          "fitness": 0.6315121212121215
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 92,
+          "fitness": 0.5826231884057973
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 88,
+          "fitness": 0.63909797979798
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 89,
+          "fitness": 0.6159131086142327
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 92,
+          "fitness": 0.588153623188406
+        },
+        {
+          "execution_time": "0:00:00.000982",
+          "num_bins": 90,
+          "fitness": 0.6077086419753088
+        }
+      ],
+      "WorstFit": [
+        {
+          "execution_time": "0:00:00.020947",
+          "num_bins": 83,
+          "fitness": 0.6930548862115128
+        },
+        {
+          "execution_time": "0:00:00.019946",
+          "num_bins": 81,
+          "fitness": 0.7241371742112487
+        },
+        {
+          "execution_time": "0:00:00.022937",
+          "num_bins": 82,
+          "fitness": 0.7074948509485095
+        },
+        {
+          "execution_time": "0:00:00.011968",
+          "num_bins": 80,
+          "fitness": 0.7433788888888889
+        },
+        {
+          "execution_time": "0:00:00.013962",
+          "num_bins": 84,
+          "fitness": 0.6796751322751321
+        },
+        {
+          "execution_time": "0:00:00.009973",
+          "num_bins": 81,
+          "fitness": 0.7274798353909467
+        },
+        {
+          "execution_time": "0:00:00.010970",
+          "num_bins": 81,
+          "fitness": 0.7234611796982168
+        },
+        {
+          "execution_time": "0:00:00.015959",
+          "num_bins": 79,
+          "fitness": 0.7579195499296766
+        },
+        {
+          "execution_time": "0:00:00.010971",
+          "num_bins": 82,
+          "fitness": 0.7078807588075883
+        },
+        {
+          "execution_time": "0:00:00.010971",
+          "num_bins": 81,
+          "fitness": 0.7253256515775037
+        },
+        {
+          "execution_time": "0:00:00.014936",
+          "num_bins": 84,
+          "fitness": 0.6752497354497354
+        },
+        {
+          "execution_time": "0:00:00.009973",
+          "num_bins": 81,
+          "fitness": 0.7248120713305901
+        },
+        {
+          "execution_time": "0:00:00.011968",
+          "num_bins": 80,
+          "fitness": 0.742256666666667
+        },
+        {
+          "execution_time": "0:00:00.011966",
+          "num_bins": 79,
+          "fitness": 0.7595814345991566
+        },
+        {
+          "execution_time": "0:00:00.015958",
+          "num_bins": 81,
+          "fitness": 0.7231725651577507
+        },
+        {
+          "execution_time": "0:00:00.012966",
+          "num_bins": 80,
+          "fitness": 0.742535555555556
+        },
+        {
+          "execution_time": "0:00:00.015958",
+          "num_bins": 81,
+          "fitness": 0.7251961591220855
+        },
+        {
+          "execution_time": "0:00:00.013963",
+          "num_bins": 81,
+          "fitness": 0.7245629629629632
+        },
+        {
+          "execution_time": "0:00:00.014958",
+          "num_bins": 81,
+          "fitness": 0.7220455418381347
+        },
+        {
+          "execution_time": "0:00:00.016954",
+          "num_bins": 82,
+          "fitness": 0.7101138211382115
+        },
+        {
+          "execution_time": "0:00:00.012968",
+          "num_bins": 81,
+          "fitness": 0.7269947873799728
+        },
+        {
+          "execution_time": "0:00:00.012965",
+          "num_bins": 82,
+          "fitness": 0.7065745257452574
+        },
+        {
+          "execution_time": "0:00:00.009972",
+          "num_bins": 79,
+          "fitness": 0.7601237693389596
+        },
+        {
+          "execution_time": "0:00:00.009973",
+          "num_bins": 78,
+          "fitness": 0.7792056980056982
+        },
+        {
+          "execution_time": "0:00:00.014961",
+          "num_bins": 80,
+          "fitness": 0.741116666666667
+        },
+        {
+          "execution_time": "0:00:00.014961",
+          "num_bins": 81,
+          "fitness": 0.7229190672153636
+        },
+        {
+          "execution_time": "0:00:00.010971",
+          "num_bins": 78,
+          "fitness": 0.7765185185185186
+        },
+        {
+          "execution_time": "0:00:00.011968",
+          "num_bins": 80,
+          "fitness": 0.7410755555555559
+        },
+        {
+          "execution_time": "0:00:00.010970",
+          "num_bins": 79,
+          "fitness": 0.7605400843881858
+        },
+        {
+          "execution_time": "0:00:00.010969",
+          "num_bins": 80,
+          "fitness": 0.7428933333333334
+        }
+      ],
+      "BestFit": [
+        {
+          "execution_time": "0:00:00.018949",
+          "num_bins": 72,
+          "fitness": 0.9169209876543208
+        },
+        {
+          "execution_time": "0:00:00.020945",
+          "num_bins": 73,
+          "fitness": 0.8968961948249624
+        },
+        {
+          "execution_time": "0:00:00.011966",
+          "num_bins": 71,
+          "fitness": 0.9351136150234742
+        },
+        {
+          "execution_time": "0:00:00.009973",
+          "num_bins": 70,
+          "fitness": 0.959094603174603
+        },
+        {
+          "execution_time": "0:00:00.010971",
+          "num_bins": 73,
+          "fitness": 0.8973515981735161
+        },
+        {
+          "execution_time": "0:00:00.007981",
+          "num_bins": 73,
+          "fitness": 0.8958770167427704
+        },
+        {
+          "execution_time": "0:00:00.009000",
+          "num_bins": 71,
+          "fitness": 0.9375010954616588
+        },
+        {
+          "execution_time": "0:00:00.011967",
+          "num_bins": 71,
+          "fitness": 0.9355367762128326
+        },
+        {
+          "execution_time": "0:00:00.009975",
+          "num_bins": 71,
+          "fitness": 0.9368600938967138
+        },
+        {
+          "execution_time": "0:00:00.009001",
+          "num_bins": 71,
+          "fitness": 0.9352137715179971
+        },
+        {
+          "execution_time": "0:00:00.013962",
+          "num_bins": 71,
+          "fitness": 0.9380319248826291
+        },
+        {
+          "execution_time": "0:00:00.008976",
+          "num_bins": 71,
+          "fitness": 0.9340820031298903
+        },
+        {
+          "execution_time": "0:00:00.012965",
+          "num_bins": 72,
+          "fitness": 0.9165197530864196
+        },
+        {
+          "execution_time": "0:00:00.010971",
+          "num_bins": 71,
+          "fitness": 0.9396995305164317
+        },
+        {
+          "execution_time": "0:00:00.012965",
+          "num_bins": 70,
+          "fitness": 0.958622222222222
+        },
+        {
+          "execution_time": "0:00:00.009972",
+          "num_bins": 70,
+          "fitness": 0.9588749206349206
+        },
+        {
+          "execution_time": "0:00:00.009975",
+          "num_bins": 71,
+          "fitness": 0.9368763693270735
+        },
+        {
+          "execution_time": "0:00:00.009973",
+          "num_bins": 72,
+          "fitness": 0.9162802469135806
+        },
+        {
+          "execution_time": "0:00:00.011969",
+          "num_bins": 70,
+          "fitness": 0.9600279365079367
+        },
+        {
+          "execution_time": "0:00:00.011968",
+          "num_bins": 71,
+          "fitness": 0.937900469483568
+        },
+        {
+          "execution_time": "0:00:00.011967",
+          "num_bins": 73,
+          "fitness": 0.8952474885844747
+        },
+        {
+          "execution_time": "0:00:00.010981",
+          "num_bins": 70,
+          "fitness": 0.9586857142857144
+        },
+        {
+          "execution_time": "0:00:00.008976",
+          "num_bins": 70,
+          "fitness": 0.9583060317460317
+        },
+        {
+          "execution_time": "0:00:00.009975",
+          "num_bins": 71,
+          "fitness": 0.9349721439749609
+        },
+        {
+          "execution_time": "0:00:00.008974",
+          "num_bins": 72,
+          "fitness": 0.9152037037037039
+        },
+        {
+          "execution_time": "0:00:00.014960",
+          "num_bins": 72,
+          "fitness": 0.9172407407407408
+        },
+        {
+          "execution_time": "0:00:00.008976",
+          "num_bins": 71,
+          "fitness": 0.9336150234741786
+        },
+        {
+          "execution_time": "0:00:00.012965",
+          "num_bins": 72,
+          "fitness": 0.9126074074074076
+        },
+        {
+          "execution_time": "0:00:00.009974",
+          "num_bins": 72,
+          "fitness": 0.9151209876543209
+        },
+        {
+          "execution_time": "0:00:00.008976",
+          "num_bins": 72,
+          "fitness": 0.914467901234568
+        }
+      ]
+    }
+  },
+  {
+    "name": "N4C1W1_D.BPP",
+    "results": {
+      "FirstFit": [
+        {
+          "execution_time": "0:00:00.059840",
+          "num_bins": 257,
+          "fitness": 0.9117350194552528
+        },
+        {
+          "execution_time": "0:00:00.064851",
+          "num_bins": 256,
+          "fitness": 0.917702734374999
+        },
+        {
+          "execution_time": "0:00:00.058843",
+          "num_bins": 256,
+          "fitness": 0.9168144531249999
+        },
+        {
+          "execution_time": "0:00:00.078766",
+          "num_bins": 258,
+          "fitness": 0.9040546511627903
+        },
+        {
+          "execution_time": "0:00:00.071808",
+          "num_bins": 260,
+          "fitness": 0.8928380769230767
+        },
+        {
+          "execution_time": "0:00:00.065849",
+          "num_bins": 258,
+          "fitness": 0.9041019379844963
+        },
+        {
+          "execution_time": "0:00:00.063791",
+          "num_bins": 257,
+          "fitness": 0.9112968871595329
+        },
+        {
+          "execution_time": "0:00:00.067820",
+          "num_bins": 262,
+          "fitness": 0.8813484732824425
+        },
+        {
+          "execution_time": "0:00:00.063829",
+          "num_bins": 257,
+          "fitness": 0.9112844357976645
+        },
+        {
+          "execution_time": "0:00:00.054883",
+          "num_bins": 257,
+          "fitness": 0.9115389105058359
+        },
+        {
+          "execution_time": "0:00:00.065826",
+          "num_bins": 256,
+          "fitness": 0.9180769531249999
+        },
+        {
+          "execution_time": "0:00:00.075797",
+          "num_bins": 256,
+          "fitness": 0.9181738281250001
+        },
+        {
+          "execution_time": "0:00:00.069838",
+          "num_bins": 260,
+          "fitness": 0.8929050000000001
+        },
+        {
+          "execution_time": "0:00:00.074775",
+          "num_bins": 256,
+          "fitness": 0.916957421875
+        },
+        {
+          "execution_time": "0:00:00.065821",
+          "num_bins": 257,
+          "fitness": 0.9111684824902722
+        },
+        {
+          "execution_time": "0:00:00.063829",
+          "num_bins": 259,
+          "fitness": 0.8998003861003854
+        },
+        {
+          "execution_time": "0:00:00.065848",
+          "num_bins": 258,
+          "fitness": 0.9055259689922475
+        },
+        {
+          "execution_time": "0:00:00.071808",
+          "num_bins": 258,
+          "fitness": 0.9050461240310076
+        },
+        {
+          "execution_time": "0:00:00.058844",
+          "num_bins": 257,
+          "fitness": 0.9109747081712061
+        },
+        {
+          "execution_time": "0:00:00.066821",
+          "num_bins": 256,
+          "fitness": 0.9183386718749994
+        },
+        {
+          "execution_time": "0:00:00.066819",
+          "num_bins": 256,
+          "fitness": 0.9173566406249992
+        },
+        {
+          "execution_time": "0:00:00.068817",
+          "num_bins": 258,
+          "fitness": 0.9053996124031005
+        },
+        {
+          "execution_time": "0:00:00.069812",
+          "num_bins": 257,
+          "fitness": 0.9108797665369647
+        },
+        {
+          "execution_time": "0:00:00.061809",
+          "num_bins": 257,
+          "fitness": 0.9112665369649801
+        },
+        {
+          "execution_time": "0:00:00.061833",
+          "num_bins": 260,
+          "fitness": 0.8930019230769234
+        },
+        {
+          "execution_time": "0:00:00.066819",
+          "num_bins": 255,
+          "fitness": 0.924600392156862
+        },
+        {
+          "execution_time": "0:00:00.070835",
+          "num_bins": 257,
+          "fitness": 0.9116494163424123
+        },
+        {
+          "execution_time": "0:00:00.065824",
+          "num_bins": 260,
+          "fitness": 0.893101923076923
+        },
+        {
+          "execution_time": "0:00:00.065800",
+          "num_bins": 257,
+          "fitness": 0.9104556420233458
+        },
+        {
+          "execution_time": "0:00:00.063829",
+          "num_bins": 258,
+          "fitness": 0.9047151162790696
+        }
+      ],
+      "NextFit": [
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 320,
+          "fitness": 0.6252859375
+        },
+        {
+          "execution_time": "0:00:00.001996",
+          "num_bins": 318,
+          "fitness": 0.6318757861635221
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 325,
+          "fitness": 0.6107664615384613
+        },
+        {
+          "execution_time": "0:00:00.002992",
+          "num_bins": 323,
+          "fitness": 0.6167953560371512
+        },
+        {
+          "execution_time": "0:00:00.001993",
+          "num_bins": 323,
+          "fitness": 0.6161520123839007
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 320,
+          "fitness": 0.6234059374999996
+        },
+        {
+          "execution_time": "0:00:00.001996",
+          "num_bins": 327,
+          "fitness": 0.6030743119266055
+        },
+        {
+          "execution_time": "0:00:00.001022",
+          "num_bins": 323,
+          "fitness": 0.6161136222910218
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 321,
+          "fitness": 0.6222158878504671
+        },
+        {
+          "execution_time": "0:00:00.000994",
+          "num_bins": 318,
+          "fitness": 0.6297757861635219
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 316,
+          "fitness": 0.6375193037974685
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 324,
+          "fitness": 0.6134700617283952
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 322,
+          "fitness": 0.6144177018633541
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 321,
+          "fitness": 0.6194663551401869
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 326,
+          "fitness": 0.6098052147239267
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 325,
+          "fitness": 0.6073024615384608
+        },
+        {
+          "execution_time": "0:00:00.001972",
+          "num_bins": 324,
+          "fitness": 0.61218549382716
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 327,
+          "fitness": 0.6057085626911317
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 325,
+          "fitness": 0.6035990769230773
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 324,
+          "fitness": 0.6124459876543208
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 320,
+          "fitness": 0.6237790625
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 318,
+          "fitness": 0.627082075471698
+        },
+        {
+          "execution_time": "0:00:00.002992",
+          "num_bins": 317,
+          "fitness": 0.6350886435331236
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 318,
+          "fitness": 0.6316437106918245
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 321,
+          "fitness": 0.6208320872274141
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 323,
+          "fitness": 0.6147643962848297
+        },
+        {
+          "execution_time": "0:00:00.001970",
+          "num_bins": 322,
+          "fitness": 0.61876801242236
+        },
+        {
+          "execution_time": "0:00:00.000999",
+          "num_bins": 320,
+          "fitness": 0.6239128125000001
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 326,
+          "fitness": 0.6051303680981596
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 329,
+          "fitness": 0.5989613981762925
+        }
+      ],
+      "WorstFit": [
+        {
+          "execution_time": "0:00:00.106720",
+          "num_bins": 282,
+          "fitness": 0.7596726950354608
+        },
+        {
+          "execution_time": "0:00:00.087738",
+          "num_bins": 280,
+          "fitness": 0.7705439285714284
+        },
+        {
+          "execution_time": "0:00:00.083774",
+          "num_bins": 279,
+          "fitness": 0.7758032258064512
+        },
+        {
+          "execution_time": "0:00:00.104719",
+          "num_bins": 281,
+          "fitness": 0.7644359430604983
+        },
+        {
+          "execution_time": "0:00:00.090757",
+          "num_bins": 280,
+          "fitness": 0.7701560714285713
+        },
+        {
+          "execution_time": "0:00:00.096716",
+          "num_bins": 281,
+          "fitness": 0.7650615658362988
+        },
+        {
+          "execution_time": "0:00:00.095744",
+          "num_bins": 282,
+          "fitness": 0.7614315602836875
+        },
+        {
+          "execution_time": "0:00:00.089759",
+          "num_bins": 283,
+          "fitness": 0.7546477031802117
+        },
+        {
+          "execution_time": "0:00:00.093748",
+          "num_bins": 282,
+          "fitness": 0.7598244680851064
+        },
+        {
+          "execution_time": "0:00:00.083750",
+          "num_bins": 281,
+          "fitness": 0.765266548042704
+        },
+        {
+          "execution_time": "0:00:00.095743",
+          "num_bins": 282,
+          "fitness": 0.7593315602836878
+        },
+        {
+          "execution_time": "0:00:00.096742",
+          "num_bins": 284,
+          "fitness": 0.7498468309859155
+        },
+        {
+          "execution_time": "0:00:00.093725",
+          "num_bins": 280,
+          "fitness": 0.7709546428571425
+        },
+        {
+          "execution_time": "0:00:00.098735",
+          "num_bins": 279,
+          "fitness": 0.7750433691756272
+        },
+        {
+          "execution_time": "0:00:00.102700",
+          "num_bins": 280,
+          "fitness": 0.7699474999999998
+        },
+        {
+          "execution_time": "0:00:00.086768",
+          "num_bins": 282,
+          "fitness": 0.7602840425531915
+        },
+        {
+          "execution_time": "0:00:00.091779",
+          "num_bins": 283,
+          "fitness": 0.7552293286219077
+        },
+        {
+          "execution_time": "0:00:00.097737",
+          "num_bins": 283,
+          "fitness": 0.7557098939929326
+        },
+        {
+          "execution_time": "0:00:00.110703",
+          "num_bins": 281,
+          "fitness": 0.7645604982206403
+        },
+        {
+          "execution_time": "0:00:00.103722",
+          "num_bins": 282,
+          "fitness": 0.7603365248226948
+        },
+        {
+          "execution_time": "0:00:00.103722",
+          "num_bins": 282,
+          "fitness": 0.7589982269503541
+        },
+        {
+          "execution_time": "0:00:00.093748",
+          "num_bins": 285,
+          "fitness": 0.7446403508771929
+        },
+        {
+          "execution_time": "0:00:00.085772",
+          "num_bins": 280,
+          "fitness": 0.7698253571428566
+        },
+        {
+          "execution_time": "0:00:00.093749",
+          "num_bins": 280,
+          "fitness": 0.7703746428571433
+        },
+        {
+          "execution_time": "0:00:00.090731",
+          "num_bins": 281,
+          "fitness": 0.765414590747331
+        },
+        {
+          "execution_time": "0:00:00.088788",
+          "num_bins": 283,
+          "fitness": 0.7554243816254425
+        },
+        {
+          "execution_time": "0:00:00.088764",
+          "num_bins": 278,
+          "fitness": 0.7810910071942448
+        },
+        {
+          "execution_time": "0:00:00.098709",
+          "num_bins": 285,
+          "fitness": 0.7441631578947366
+        },
+        {
+          "execution_time": "0:00:00.097739",
+          "num_bins": 280,
+          "fitness": 0.7697782142857142
+        },
+        {
+          "execution_time": "0:00:00.105716",
+          "num_bins": 275,
+          "fitness": 0.7969312727272723
+        }
+      ],
+      "BestFit": [
+        {
+          "execution_time": "0:00:00.078790",
+          "num_bins": 253,
+          "fitness": 0.9397387351778647
+        },
+        {
+          "execution_time": "0:00:00.081807",
+          "num_bins": 254,
+          "fitness": 0.932591732283464
+        },
+        {
+          "execution_time": "0:00:00.078789",
+          "num_bins": 253,
+          "fitness": 0.9391181818181816
+        },
+        {
+          "execution_time": "0:00:00.081782",
+          "num_bins": 255,
+          "fitness": 0.9254552941176467
+        },
+        {
+          "execution_time": "0:00:00.076794",
+          "num_bins": 257,
+          "fitness": 0.9149731517509727
+        },
+        {
+          "execution_time": "0:00:00.087764",
+          "num_bins": 254,
+          "fitness": 0.9337051181102358
+        },
+        {
+          "execution_time": "0:00:00.077790",
+          "num_bins": 255,
+          "fitness": 0.9269611764705875
+        },
+        {
+          "execution_time": "0:00:00.083752",
+          "num_bins": 259,
+          "fitness": 0.9031146718146706
+        },
+        {
+          "execution_time": "0:00:00.086768",
+          "num_bins": 253,
+          "fitness": 0.9389980237154141
+        },
+        {
+          "execution_time": "0:00:00.090757",
+          "num_bins": 255,
+          "fitness": 0.9260003921568623
+        },
+        {
+          "execution_time": "0:00:00.090758",
+          "num_bins": 253,
+          "fitness": 0.9381561264822132
+        },
+        {
+          "execution_time": "0:00:00.082779",
+          "num_bins": 254,
+          "fitness": 0.9326303149606298
+        },
+        {
+          "execution_time": "0:00:00.077816",
+          "num_bins": 258,
+          "fitness": 0.9064360465116275
+        },
+        {
+          "execution_time": "0:00:00.070837",
+          "num_bins": 255,
+          "fitness": 0.9279047058823524
+        },
+        {
+          "execution_time": "0:00:00.092753",
+          "num_bins": 253,
+          "fitness": 0.9388217391304345
+        },
+        {
+          "execution_time": "0:00:00.074801",
+          "num_bins": 258,
+          "fitness": 0.9091120155038753
+        },
+        {
+          "execution_time": "0:00:00.077768",
+          "num_bins": 255,
+          "fitness": 0.927011372549019
+        },
+        {
+          "execution_time": "0:00:00.086768",
+          "num_bins": 257,
+          "fitness": 0.9144392996108945
+        },
+        {
+          "execution_time": "0:00:00.084772",
+          "num_bins": 254,
+          "fitness": 0.933172834645669
+        },
+        {
+          "execution_time": "0:00:00.081782",
+          "num_bins": 253,
+          "fitness": 0.9397300395256913
+        },
+        {
+          "execution_time": "0:00:00.080785",
+          "num_bins": 253,
+          "fitness": 0.939301581027668
+        },
+        {
+          "execution_time": "0:00:00.083777",
+          "num_bins": 253,
+          "fitness": 0.94021304347826
+        },
+        {
+          "execution_time": "0:00:00.080808",
+          "num_bins": 252,
+          "fitness": 0.9461456349206344
+        },
+        {
+          "execution_time": "0:00:00.072832",
+          "num_bins": 255,
+          "fitness": 0.9264607843137251
+        },
+        {
+          "execution_time": "0:00:00.085774",
+          "num_bins": 258,
+          "fitness": 0.9071717054263567
+        },
+        {
+          "execution_time": "0:00:00.085746",
+          "num_bins": 254,
+          "fitness": 0.9336807086614167
+        },
+        {
+          "execution_time": "0:00:00.080808",
+          "num_bins": 253,
+          "fitness": 0.9388794466403155
+        },
+        {
+          "execution_time": "0:00:00.083801",
+          "num_bins": 257,
+          "fitness": 0.9137964980544746
+        },
+        {
+          "execution_time": "0:00:00.091754",
+          "num_bins": 255,
+          "fitness": 0.9249447058823528
+        },
+        {
+          "execution_time": "0:00:00.084774",
+          "num_bins": 256,
+          "fitness": 0.9185199218749998
+        }
+      ]
+    }
+  },
+  {
+    "name": "N4C3W1_E.BPP",
+    "results": {
+      "FirstFit": [
+        {
+          "execution_time": "0:00:00.056846",
+          "num_bins": 169,
+          "fitness": 0.9536712689020376
+        },
+        {
+          "execution_time": "0:00:00.058843",
+          "num_bins": 169,
+          "fitness": 0.9563931623931619
+        },
+        {
+          "execution_time": "0:00:00.046873",
+          "num_bins": 170,
+          "fitness": 0.9459129411764693
+        },
+        {
+          "execution_time": "0:00:00.058842",
+          "num_bins": 168,
+          "fitness": 0.9646208994708981
+        },
+        {
+          "execution_time": "0:00:00.056849",
+          "num_bins": 169,
+          "fitness": 0.9529896120973039
+        },
+        {
+          "execution_time": "0:00:00.056848",
+          "num_bins": 168,
+          "fitness": 0.9639769841269834
+        },
+        {
+          "execution_time": "0:00:00.062829",
+          "num_bins": 169,
+          "fitness": 0.9529811965811953
+        },
+        {
+          "execution_time": "0:00:00.047871",
+          "num_bins": 169,
+          "fitness": 0.953825904010518
+        },
+        {
+          "execution_time": "0:00:00.052834",
+          "num_bins": 171,
+          "fitness": 0.9366541910331367
+        },
+        {
+          "execution_time": "0:00:00.051860",
+          "num_bins": 169,
+          "fitness": 0.9538311637080861
+        },
+        {
+          "execution_time": "0:00:00.055846",
+          "num_bins": 170,
+          "fitness": 0.944670588235293
+        },
+        {
+          "execution_time": "0:00:00.056847",
+          "num_bins": 171,
+          "fitness": 0.9364816114359967
+        },
+        {
+          "execution_time": "0:00:00.043881",
+          "num_bins": 169,
+          "fitness": 0.9538737672583817
+        },
+        {
+          "execution_time": "0:00:00.050865",
+          "num_bins": 169,
+          "fitness": 0.955026166995397
+        },
+        {
+          "execution_time": "0:00:00.049865",
+          "num_bins": 170,
+          "fitness": 0.9457315032679727
+        },
+        {
+          "execution_time": "0:00:00.045877",
+          "num_bins": 169,
+          "fitness": 0.9538711374095978
+        },
+        {
+          "execution_time": "0:00:00.061835",
+          "num_bins": 169,
+          "fitness": 0.9549946088099924
+        },
+        {
+          "execution_time": "0:00:00.054880",
+          "num_bins": 170,
+          "fitness": 0.9451720261437898
+        },
+        {
+          "execution_time": "0:00:00.053855",
+          "num_bins": 169,
+          "fitness": 0.9533793556870475
+        },
+        {
+          "execution_time": "0:00:00.051861",
+          "num_bins": 170,
+          "fitness": 0.9447040522875806
+        },
+        {
+          "execution_time": "0:00:00.049867",
+          "num_bins": 170,
+          "fitness": 0.9445325490196073
+        },
+        {
+          "execution_time": "0:00:00.053856",
+          "num_bins": 169,
+          "fitness": 0.9541088757396439
+        },
+        {
+          "execution_time": "0:00:00.050863",
+          "num_bins": 170,
+          "fitness": 0.9446883660130704
+        },
+        {
+          "execution_time": "0:00:00.053856",
+          "num_bins": 170,
+          "fitness": 0.9445189542483647
+        },
+        {
+          "execution_time": "0:00:00.058817",
+          "num_bins": 168,
+          "fitness": 0.9645145502645495
+        },
+        {
+          "execution_time": "0:00:00.048895",
+          "num_bins": 170,
+          "fitness": 0.9454732026143783
+        },
+        {
+          "execution_time": "0:00:00.054854",
+          "num_bins": 169,
+          "fitness": 0.9529028270874411
+        },
+        {
+          "execution_time": "0:00:00.053831",
+          "num_bins": 170,
+          "fitness": 0.9460196078431362
+        },
+        {
+          "execution_time": "0:00:00.056873",
+          "num_bins": 170,
+          "fitness": 0.9444661437908486
+        },
+        {
+          "execution_time": "0:00:00.055850",
+          "num_bins": 169,
+          "fitness": 0.9535729125575272
+        }
+      ],
+      "NextFit": [
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 212,
+          "fitness": 0.6312614255765194
+        },
+        {
+          "execution_time": "0:00:00.001993",
+          "num_bins": 215,
+          "fitness": 0.6155768475452195
+        },
+        {
+          "execution_time": "0:00:00.001003",
+          "num_bins": 213,
+          "fitness": 0.6234080333854977
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 216,
+          "fitness": 0.6122088477366253
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 213,
+          "fitness": 0.6256899321857062
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 219,
+          "fitness": 0.5911717909690508
+        },
+        {
+          "execution_time": "0:00:00.001995",
+          "num_bins": 221,
+          "fitness": 0.5852900955253891
+        },
+        {
+          "execution_time": "0:00:00.000996",
+          "num_bins": 214,
+          "fitness": 0.6223586708203527
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 219,
+          "fitness": 0.5936440385591064
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 223,
+          "fitness": 0.5739581464872943
+        },
+        {
+          "execution_time": "0:00:00.001023",
+          "num_bins": 211,
+          "fitness": 0.6350354923644017
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 214,
+          "fitness": 0.618531879543094
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 215,
+          "fitness": 0.6131317829457361
+        },
+        {
+          "execution_time": "0:00:00.001020",
+          "num_bins": 216,
+          "fitness": 0.609947942386831
+        },
+        {
+          "execution_time": "0:00:00.000998",
+          "num_bins": 212,
+          "fitness": 0.6297708595387838
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 213,
+          "fitness": 0.6259098591549288
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 218,
+          "fitness": 0.5991361875637101
+        },
+        {
+          "execution_time": "0:00:00.000996",
+          "num_bins": 209,
+          "fitness": 0.644825730994152
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 218,
+          "fitness": 0.5961502548419977
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 211,
+          "fitness": 0.6384987888362288
+        },
+        {
+          "execution_time": "0:00:00.000999",
+          "num_bins": 221,
+          "fitness": 0.5826133735545497
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 218,
+          "fitness": 0.5978220183486231
+        },
+        {
+          "execution_time": "0:00:00",
+          "num_bins": 217,
+          "fitness": 0.6032677931387608
+        },
+        {
+          "execution_time": "0:00:00.001024",
+          "num_bins": 215,
+          "fitness": 0.6115425322997413
+        },
+        {
+          "execution_time": "0:00:00.001989",
+          "num_bins": 210,
+          "fitness": 0.64131746031746
+        },
+        {
+          "execution_time": "0:00:00.000973",
+          "num_bins": 211,
+          "fitness": 0.6357390205371245
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 213,
+          "fitness": 0.6275649452269165
+        },
+        {
+          "execution_time": "0:00:00.001994",
+          "num_bins": 213,
+          "fitness": 0.6245523213354195
+        },
+        {
+          "execution_time": "0:00:00.000999",
+          "num_bins": 215,
+          "fitness": 0.6147297157622735
+        },
+        {
+          "execution_time": "0:00:00.000997",
+          "num_bins": 219,
+          "fitness": 0.5939460172501267
+        }
+      ],
+      "WorstFit": [
+        {
+          "execution_time": "0:00:00.077790",
+          "num_bins": 189,
+          "fitness": 0.7666669018224574
+        },
+        {
+          "execution_time": "0:00:00.093750",
+          "num_bins": 192,
+          "fitness": 0.7438877314814815
+        },
+        {
+          "execution_time": "0:00:00.084773",
+          "num_bins": 194,
+          "fitness": 0.7303796105383732
+        },
+        {
+          "execution_time": "0:00:00.076796",
+          "num_bins": 189,
+          "fitness": 0.7662605526161085
+        },
+        {
+          "execution_time": "0:00:00.076793",
+          "num_bins": 186,
+          "fitness": 0.7922477897252093
+        },
+        {
+          "execution_time": "0:00:00.085772",
+          "num_bins": 191,
+          "fitness": 0.7524274578243162
+        },
+        {
+          "execution_time": "0:00:00.082779",
+          "num_bins": 187,
+          "fitness": 0.7817822935234697
+        },
+        {
+          "execution_time": "0:00:00.074800",
+          "num_bins": 189,
+          "fitness": 0.7670083480305704
+        },
+        {
+          "execution_time": "0:00:00.060837",
+          "num_bins": 191,
+          "fitness": 0.7520062827225135
+        },
+        {
+          "execution_time": "0:00:00.070813",
+          "num_bins": 190,
+          "fitness": 0.7613405847953216
+        },
+        {
+          "execution_time": "0:00:00.080783",
+          "num_bins": 188,
+          "fitness": 0.7743463356973994
+        },
+        {
+          "execution_time": "0:00:00.063854",
+          "num_bins": 191,
+          "fitness": 0.7527090168702734
+        },
+        {
+          "execution_time": "0:00:00.064826",
+          "num_bins": 190,
+          "fitness": 0.7597906432748531
+        },
+        {
+          "execution_time": "0:00:00.071783",
+          "num_bins": 189,
+          "fitness": 0.7677871840094063
+        },
+        {
+          "execution_time": "0:00:00.079786",
+          "num_bins": 193,
+          "fitness": 0.7373174438687391
+        },
+        {
+          "execution_time": "0:00:00.067793",
+          "num_bins": 192,
+          "fitness": 0.745300694444444
+        },
+        {
+          "execution_time": "0:00:00.084772",
+          "num_bins": 193,
+          "fitness": 0.7370788716177314
+        },
+        {
+          "execution_time": "0:00:00.081757",
+          "num_bins": 189,
+          "fitness": 0.7677853027630803
+        },
+        {
+          "execution_time": "0:00:00.077790",
+          "num_bins": 191,
+          "fitness": 0.7518052356020947
+        },
+        {
+          "execution_time": "0:00:00.069838",
+          "num_bins": 190,
+          "fitness": 0.7591618713450289
+        },
+        {
+          "execution_time": "0:00:00.072804",
+          "num_bins": 192,
+          "fitness": 0.7444354166666663
+        },
+        {
+          "execution_time": "0:00:00.074801",
+          "num_bins": 192,
+          "fitness": 0.7449363425925924
+        },
+        {
+          "execution_time": "0:00:00.073778",
+          "num_bins": 188,
+          "fitness": 0.7748002364066195
+        },
+        {
+          "execution_time": "0:00:00.080757",
+          "num_bins": 192,
+          "fitness": 0.743879398148148
+        },
+        {
+          "execution_time": "0:00:00.071834",
+          "num_bins": 191,
+          "fitness": 0.7527071553228624
+        },
+        {
+          "execution_time": "0:00:00.071807",
+          "num_bins": 189,
+          "fitness": 0.7688129335684887
+        },
+        {
+          "execution_time": "0:00:00.073801",
+          "num_bins": 192,
+          "fitness": 0.744541435185185
+        },
+        {
+          "execution_time": "0:00:00.093761",
+          "num_bins": 193,
+          "fitness": 0.7377572826712719
+        },
+        {
+          "execution_time": "0:00:00.080758",
+          "num_bins": 191,
+          "fitness": 0.7541642815590459
+        },
+        {
+          "execution_time": "0:00:00.087739",
+          "num_bins": 192,
+          "fitness": 0.7442099537037042
+        }
+      ],
+      "BestFit": [
+        {
+          "execution_time": "0:00:00.063831",
+          "num_bins": 168,
+          "fitness": 0.9645224867724859
+        },
+        {
+          "execution_time": "0:00:00.050864",
+          "num_bins": 168,
+          "fitness": 0.9671103174603166
+        },
+        {
+          "execution_time": "0:00:00.058843",
+          "num_bins": 170,
+          "fitness": 0.945596078431372
+        },
+        {
+          "execution_time": "0:00:00.067815",
+          "num_bins": 168,
+          "fitness": 0.96576111111111
+        },
+        {
+          "execution_time": "0:00:00.061835",
+          "num_bins": 167,
+          "fitness": 0.9753328010645366
+        },
+        {
+          "execution_time": "0:00:00.060838",
+          "num_bins": 168,
+          "fitness": 0.9667923280423271
+        },
+        {
+          "execution_time": "0:00:00.060837",
+          "num_bins": 168,
+          "fitness": 0.9641711640211639
+        },
+        {
+          "execution_time": "0:00:00.065848",
+          "num_bins": 168,
+          "fitness": 0.9643801587301578
+        },
+        {
+          "execution_time": "0:00:00.068818",
+          "num_bins": 171,
+          "fitness": 0.9376335282651064
+        },
+        {
+          "execution_time": "0:00:00.061858",
+          "num_bins": 168,
+          "fitness": 0.9653558201058198
+        },
+        {
+          "execution_time": "0:00:00.060838",
+          "num_bins": 168,
+          "fitness": 0.9650156084656073
+        },
+        {
+          "execution_time": "0:00:00.055826",
+          "num_bins": 170,
+          "fitness": 0.9476656209150318
+        },
+        {
+          "execution_time": "0:00:00.066823",
+          "num_bins": 168,
+          "fitness": 0.9650230158730151
+        },
+        {
+          "execution_time": "0:00:00.061836",
+          "num_bins": 168,
+          "fitness": 0.9642653439153432
+        },
+        {
+          "execution_time": "0:00:00.053882",
+          "num_bins": 169,
+          "fitness": 0.9565940828402364
+        },
+        {
+          "execution_time": "0:00:00.060840",
+          "num_bins": 169,
+          "fitness": 0.955197107166337
+        },
+        {
+          "execution_time": "0:00:00.059840",
+          "num_bins": 168,
+          "fitness": 0.9652589947089936
+        },
+        {
+          "execution_time": "0:00:00.060838",
+          "num_bins": 169,
+          "fitness": 0.9547694937541081
+        },
+        {
+          "execution_time": "0:00:00.072806",
+          "num_bins": 169,
+          "fitness": 0.9555379355687039
+        },
+        {
+          "execution_time": "0:00:00.056857",
+          "num_bins": 170,
+          "fitness": 0.9448771241830057
+        },
+        {
+          "execution_time": "0:00:00.059840",
+          "num_bins": 169,
+          "fitness": 0.9550508875739637
+        },
+        {
+          "execution_time": "0:00:00.063852",
+          "num_bins": 169,
+          "fitness": 0.955997107166337
+        },
+        {
+          "execution_time": "0:00:00.064826",
+          "num_bins": 169,
+          "fitness": 0.9557193951347793
+        },
+        {
+          "execution_time": "0:00:00.066822",
+          "num_bins": 168,
+          "fitness": 0.9657203703703703
+        },
+        {
+          "execution_time": "0:00:00.055825",
+          "num_bins": 167,
+          "fitness": 0.9750443113772447
+        },
+        {
+          "execution_time": "0:00:00.062832",
+          "num_bins": 169,
+          "fitness": 0.9558508875739635
+        },
+        {
+          "execution_time": "0:00:00.056875",
+          "num_bins": 168,
+          "fitness": 0.9641965608465597
+        },
+        {
+          "execution_time": "0:00:00.060826",
+          "num_bins": 169,
+          "fitness": 0.9537722550953317
+        },
+        {
+          "execution_time": "0:00:00.060863",
+          "num_bins": 168,
+          "fitness": 0.9659267195767188
+        },
+        {
+          "execution_time": "0:00:00.057845",
+          "num_bins": 168,
+          "fitness": 0.9651822751322747
+        }
+      ]
+    }
+  }
+]
